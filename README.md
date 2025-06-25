@@ -1,6 +1,5 @@
 # Real-Estate-Market-Analysis-with-Python
 
-# 🏡 Real Estate Market Analysis with Python
 
 ## 📌 Case Description
 
@@ -24,21 +23,24 @@ This Real Estate Market Analysis with Python project aims for you to preprocess,
 - `NumPy`  
 - `Matplotlib`  
 - `datetime`  
-- `seaborn` 
+- `seaborn`
+  
+---
 
 ## 📚 Project Content
 
-1. **Part 1:** Data Preprocessing  
-2. **Part 2:** Descriptive Statistics  
-3. **Part 3:** Data Analysis  
-4. **Part 4:** Data Visualization  
-5. **Part 5:** Data Interpretation  
+**Part 1:** Data Preprocessing  
+**Part 2:** Descriptive Statistics  
+**Part 3:** Data Analysis  
+**Part 4:** Data Visualization  
+**Part 5:** Data Interpretation  
 
 ## 🛠 Featured Tools
 
 - Python  
 - Jupyter Notebook
 
+---
 
 ## 🧠 Topics Covered
 
